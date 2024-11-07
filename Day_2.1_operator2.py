@@ -15,7 +15,7 @@ print(3 <= 5)
 
 #Logic Operator
 # 1.and Both are True
-    #False False-> True 
+    #False and False-> True 
 
 # 2.or Any one True
 # 3.not
